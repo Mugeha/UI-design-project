@@ -2,7 +2,7 @@ body {
   background: white
 }
 .sub-hero{
-  background: url('C:/Users/25475/OneDrive/UIdesignproject/forest2img.jpg');
+  background: url('forest2img.jpg');
   background-size: cover;
  height: 70vh;
 }
